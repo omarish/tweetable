@@ -28,4 +28,4 @@ Include the following before your `</head>` tag (note that on Wordpress or other
  <a class="specialformatting tweetable" data-user="nootrobox" href="#">Here's the text I want my readers to tweet.</a>
 ```
 
-For a live example, see [The Nootrobox blog](https://www.nootrobox.com/blog/starcraft).
+For a live example, see [The Nootrobox blog](https://www.nootrobox.com/blog/starcraft) and more information [on this page](http://omarish.com/2015/05/16/tweetable.html).
