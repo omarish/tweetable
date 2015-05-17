@@ -1,7 +1,7 @@
 # Overview
 Tweetable is a plugin to turn any html element into a twitter link that either uses the native app, or falls back to web.
 
-Tweetable provides an ideal experience for users who want to share headlines, quotes, and other highlighted content directly from your blog.
+Tweetable provides an ideal experience for users who want to tweet headlines, quotes, and other highlighted content directly from your blog.
 
 #Setup
 Include the following before your `</head>` tag (note that on Wordpress or other blog templates, there’s usually a place to paste custom code like this):
@@ -28,4 +28,4 @@ Include the following before your `</head>` tag (note that on Wordpress or other
  <a class="specialformatting tweetable" data-user="nootrobox" href="#">Here's the text I want to tweet</a>
 ```
 
-For a live example, see [The Nootrobox blog](https://www.nootrobox.com/blog/starcraft)
+For a live example, see [The Nootrobox blog](https://www.nootrobox.com/blog/starcraft).
