@@ -3,7 +3,7 @@ $(document).ready(function() {
     var user = $(this).data('user');
     var text = "\"" + ($(this).data('message') || $(this).text()) + "\" " + window.location.href + (user ? " via @" + $(this).data('user') : '');
     var original_start = new Date();
-    var lag = 1000;
+    var lag = 1250;
 
     var deeplink_url = "twitter://post?message=" + encodeURIComponent(text);
     window.location.href = deeplink_url;
