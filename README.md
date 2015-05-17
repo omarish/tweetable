@@ -25,7 +25,7 @@ Include the following before your `</head>` tag (note that on Wordpress or other
 
 #Example
 ```html
- <a class="specialformatting tweetable" data-user="nootrobox" href="#">Here's the text I want to tweet</a>
+ <a class="specialformatting tweetable" data-user="nootrobox" href="#">Here's the text I want my readers to tweet.</a>
 ```
 
 For a live example, see [The Nootrobox blog](https://www.nootrobox.com/blog/starcraft).
