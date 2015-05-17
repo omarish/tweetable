@@ -25,5 +25,7 @@ Include the following in your header (note that on Wordpress or other blog templ
 
 #Example
 ```html
- <a class="specialformatting tweetable" data-user="nootrobox" href="#">How many actions can you accomplish in 1 minute?</a>
+ <a class="specialformatting tweetable" data-user="nootrobox" href="#">Here's the text I want to tweet</a>
 ```
+
+For a live example, see [The Nootrobox blog](https://www.nootrobox.com/blog/starcraft)
