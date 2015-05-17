@@ -4,14 +4,14 @@ Tweetable is a plugin to turn any html element into a twitter link that either u
 Tweetable provides an ideal experience for users who want to share headlines, quotes, and other highlighted content directly from your blog.
 
 #Setup
-Include the following in your header (note that on Wordpress or other blog templates, there’s usually a place to paste custom code like this):
+Include the following before your `</head>` tag (note that on Wordpress or other blog templates, there’s usually a place to paste custom code like this):
 
 ```html
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
  <script src="http://omarish.com/tweetable/tweetable.js"></script>
 ```
 
-(Note: if you get SSL errors, simply copy the entire code in this repo between your <head></head> tabs, your Wordpess/other custom code box, or ask your webdeveloper ;)
+(Note: if you get SSL errors, simply copy the entire code in this repo between your `<head></head>` tabs, your Wordpess/other custom code box, or ask your webdeveloper ;)
 
 #Use
 1. Once you have Tweetable setup, find a piece of text that you want to make Tweetable.
