@@ -11,7 +11,7 @@ Include the following in your header (note that on Wordpress or other blog templ
  <script src="http://omarish.com/tweetable/tweetable.js"></script>
 ```
 
-(Note: if you get SSL errors, simply copy the paste in this repo between your <head></head> tabs, your Wordpess/other custom code box, or ask your webdeveloper ;)
+(Note: if you get SSL errors, simply copy the entire code in this repo between your <head></head> tabs, your Wordpess/other custom code box, or ask your webdeveloper ;)
 
 #Use
 1. Once you have Tweetable setup, find a piece of text that you want to make Tweetable.
