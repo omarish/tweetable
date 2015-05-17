@@ -1,7 +1,7 @@
 $(document).ready(function() {
   function doCallback() {
     var user = $(this).data('user');
-    var text = ($(this).data('message') || $(this).text()) + " " + window.location.href + (user ? " via @" + $(this).data('user') : '');
+    var text = "\"" + ($(this).data('message') || $(this).text()) + "\" " + window.location.href + (user ? " via @" + $(this).data('user') : '');
     var original_start = new Date();
     var lag = 1000;
 
